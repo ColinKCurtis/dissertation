@@ -3,7 +3,6 @@
 *.bbl
 *.bcf
 *.blg
-*.cls
 *.fdb_latexmk
 *.fls
 *.lof

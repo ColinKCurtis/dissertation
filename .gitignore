@@ -3,8 +3,13 @@
 *.bbl
 *.bcf
 *.blg
+*.cls
 *.fdb_latexmk
 *.fls
 *.lof
 *.log
+*.lot
+*.out
+*.xml
 *.synctex.gz
+*.toc

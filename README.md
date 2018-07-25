@@ -3,13 +3,7 @@
 
 If you want to set up a dissertation using LaTeX, copy the following files/directories into your own directory:
 
-Chapter-1/
-Appendix-A/
-Samples/
-ckc1.tex
-front.tex
-ncsuthesis.cls
-optional.tex
+Chapter-1/, Appendix-A/, Samples/, ckc1.tex, front.tex, ncsuthesis.cls, optional.tex
 
 OBVIOUSLY, the names and content of each of these files will need to be modified. However, with
 this set of files, a LaTeX editor with appropriate back-end materials (TexLive distribution, etc.),

@@ -1,0 +1,10 @@
+#ignore the following file types which latex uses in creating a .pdf from a .tex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.synctex.gz

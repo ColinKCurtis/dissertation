@@ -1,0 +1,123 @@
+\contentsline {chapter}{LIST OF TABLES}{ix}{section*.5}
+\contentsline {chapter}{LIST OF FIGURES}{x}{section*.6}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}History of Friction Science}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Modern Tribology}{2}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Project Motivations}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Societal Need}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Topic 1: Comparison Study of Nanodiamonds Having Positively or Negatively Charged Surface Functional Groups and their Impact on Tribological Behavior}{6}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Topic 1 Hypothesis}{6}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Topic 1 Background}{6}{subsubsection.1.2.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Topic 2 - The Impact of Root-mean-square (RMS) Surface Roughness on Nanotribological Behaviors for Gold Surfaces}{7}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Topic 2 Hypothesis}{7}{subsubsection.1.2.3.1}
+\contentsline {subsubsection}{\numberline {1.2.3.2}Topic 2 Background}{7}{subsubsection.1.2.3.2}
+\contentsline {subsection}{\numberline {1.2.4}Topic 3 - The Tribological Behavior of Super-paramagnetic Nanoparticles in Solution at the Interface With and Without the Presence of an External Magnetic Field}{8}{subsection.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.4.1}Topic 3 Hypothesis}{8}{subsubsection.1.2.4.1}
+\contentsline {subsubsection}{\numberline {1.2.4.2}Topic 3 Background}{8}{subsubsection.1.2.4.2}
+\contentsline {subsection}{\numberline {1.2.5}Topic 4 - Permeation of Gaseous Water and Ethanol into or through Hydrogenated Graphene and Hydrogenated Graphene Oxide}{9}{subsection.1.2.5}
+\contentsline {subsubsection}{\numberline {1.2.5.1}Topic 4 Background}{9}{subsubsection.1.2.5.1}
+\contentsline {subsubsection}{\numberline {1.2.5.2}Topic 4 Hypothesis}{9}{subsubsection.1.2.5.2}
+\contentsline {section}{{Chapter 1 References}}{10}{subsubsection.1.2.5.2}
+\contentsline {chapter}{\numberline {2}Experimental Apparatus, Techniques, and Theories of Operation}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Quartz Crystal Microbalance (QCM)}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}General Description}{11}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}The AT-cut Quartz Crystal}{13}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Frequency Shift - Measured}{13}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}Mass-loading}{16}{subsubsection.2.1.3.1}
+\contentsline {subsection}{\numberline {2.1.4}Energy Dissipation at the QCM Interface}{18}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Amplitude - Measured}{18}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Quality Factor}{18}{subsubsection.2.1.4.2}
+\contentsline {subsection}{\numberline {2.1.5}Slippage at the QCM Interface}{19}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}The Behavior of the QCM, in Vacuum, in the Presence of Gaseous Species - Adsorption Isotherms}{19}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}The Behavior of the QCM in Liquid Environments}{19}{subsection.2.1.7}
+\contentsline {subsubsection}{\numberline {2.1.7.1}Temperature}{19}{subsubsection.2.1.7.1}
+\contentsline {subsubsection}{\numberline {2.1.7.2}Pressure}{19}{subsubsection.2.1.7.2}
+\contentsline {subsubsection}{\numberline {2.1.7.3}Stress -and changes in pressure?-}{19}{subsubsection.2.1.7.3}
+\contentsline {section}{\numberline {2.2}LabVIEW Recording Software for QCM Experiments}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3}The Atomic Force Microscope}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}Scanning Electron Microscope}{21}{section.2.4}
+\contentsline {section}{\numberline {2.5}Vacuum Systems}{21}{section.2.5}
+\contentsline {section}{\numberline {2.6}Equipment for Liquid-immersed QCM Measurements}{21}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Stanford Research Systems Flow Cell}{21}{subsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.1.1}Flow Cell Electronics}{21}{subsubsection.2.6.1.1}
+\contentsline {section}{\numberline {2.7}Macro-scale Friction Measurements}{21}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Background and Conventions for Macro-scale Tribology}{21}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}PCS Instruments MTM-2 Macro-scale Tribometer}{21}{subsection.2.7.2}
+\contentsline {section}{\numberline {2.8}Dynamic Light Scattering and Electrophoresis Measurements for Nanometer Size Particle Characterization}{21}{section.2.8}
+\contentsline {subsubsection}{\numberline {2.8.0.1}Principles of Dynamic Light Scattering}{21}{subsubsection.2.8.0.1}
+\contentsline {subsubsection}{\numberline {2.8.0.2}Principles of Electrophoresis}{21}{subsubsection.2.8.0.2}
+\contentsline {subsubsection}{\numberline {2.8.0.3}Malvern ZetaSizer Specifics}{22}{subsubsection.2.8.0.3}
+\contentsline {section}{{Chapter 2 References}}{22}{subsubsection.2.8.0.3}
+\contentsline {chapter}{\numberline {3}Theory and Fundamentals - Nanostructured Materials, Charge, Zeta Potential, Aqueous Kinetics}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Nano-porous Alumina}{23}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Electronic Surface Structure of Alumina}{24}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Geometry of Nano-porous Alumina and Effects on Phase Transitions}{24}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Graphene Membranes}{24}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Electronic Surface Structure of Nanodiamonds}{24}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Graphene Oxide Membranes}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Electronic Surface Structure of Nanodiamonds}{24}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Nanodiamonds}{24}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Detonation Nanodiamond Synthesis}{24}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Molecular Adsorption and Bonding of Functional Groups to Nanodiamond Surfaces}{24}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Electronic Surface Structure of Nanodiamonds}{24}{subsubsection.3.4.2.1}
+\contentsline {subsection}{\numberline {3.4.3}Functional Groups, Surface Charge, and Zeta Potential}{24}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Aqueous Kinetics of Nanodiamonds}{24}{subsection.3.4.4}
+\contentsline {section}{{Chapter 3 References}}{24}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {4}Sample Preparation}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}QCM Sample Preparation and Details}{26}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Crystal Growth and Preparation}{26}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}QCM Electrode: Material Choice, Suppliers, and Deposition Techniques}{26}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}Stainless Steel, Aluminum, Gold - Filtech}{26}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}Graphene and Graphene Oxide Preparations - NRL}{26}{subsubsection.4.1.2.2}
+\contentsline {section}{\numberline {4.2}De-ionized Water Source and Details}{26}{section.4.2}
+\contentsline {section}{\numberline {4.3}Nanoparticles}{26}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Nanoparticle Synthesis}{26}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Nanoparticle Surface Modification and Characteristics}{26}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}List of Samples Used in Experiments, by Type}{26}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Quartz Crystal Microbalances and Affixed Materials}{26}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Nanoparticle Solutions}{26}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Adsorbate Species for Adsorption Isotherm Work}{26}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Macroscale Tribometer Samples}{26}{subsection.4.4.4}
+\contentsline {section}{{Chapter 4 References}}{26}{subsection.4.4.4}
+\contentsline {chapter}{\numberline {5}A Comparative Study of The Nanoscale and Macroscale Tribological Attributes of Alumina and Stainless Steel Surfaces Immersed in Aqueous Suspensions of Positively or Negatively Charged Nanodiamonds (reprint)}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Abstract}{28}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{28}{section.5.2}
+\contentsline {section}{\numberline {5.3}Materials and Methods}{32}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Materials}{32}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Macro-scale Friction Measurements}{33}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Atomic Force Microscopy and Scanning Electron Microscopy Characterization of Surface Topology}{34}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Quartz Crystal Micro-balance Apparatus}{34}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Quartz Crystal Micro-balance Data Analysis}{35}{subsection.5.3.5}
+\contentsline {section}{\numberline {5.4}Results}{38}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Macro-scale Friction Measurements}{38}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}AFM and SEM Measurements}{39}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}QCM Measurements}{44}{section.5.5}
+\contentsline {section}{\numberline {5.6}Discussion}{46}{section.5.6}
+\contentsline {section}{\numberline {5.7}Conclusion}{48}{section.5.7}
+\contentsline {section}{\numberline {5.8}Acknowledgements}{49}{section.5.8}
+\contentsline {section}{{Chapter 5 References}}{49}{section.5.8}
+\contentsline {chapter}{\numberline {6}AFM and QCM Study of the Nano-scale and Macro-scale Tribological Attributes of Polished and Unpolished, Rough Gold Surfaces Immersed in Functionalized Aqueous Nanodiamond Solutions}{50}{chapter.6}
+\contentsline {section}{{Chapter 6 References}}{50}{section*.22}
+\contentsline {chapter}{\numberline {7}Superparamagnetic Nanoparticle Mediated Dissipation in the Presence of External Magnetic Fields}{51}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{51}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Background Work}{51}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Motivations}{51}{subsection.7.1.2}
+\contentsline {section}{{Chapter 7 References}}{51}{subsection.7.1.2}
+\contentsline {chapter}{\numberline {8}Dissipation of Gaseous Species through Hydrogenated Graphene and Hydrogenated Graphene Oxide Layers atop Porous Media on QCM}{52}{chapter.8}
+\contentsline {section}{{Chapter 8 References}}{52}{section*.23}
+\contentsline {chapter}{\numberline {9}Future Work}{53}{chapter.9}
+\contentsline {section}{\numberline {9.1}The State of the Art}{53}{section.9.1}
+\contentsline {section}{\numberline {9.2}Suggested Computational Studies}{53}{section.9.2}
+\contentsline {section}{\numberline {9.3}Suggested Experimental Work}{53}{section.9.3}
+\contentsline {section}{{Chapter 10 References}}{53}{section.9.3}
+\contentsline {chapter}{{\uppercase {Bibliography}}}{54}{section.9.3}
+\contentsline {chapter}{APPENDIX}{54}{chapter*.24}
+ \renewcommand {\cftchappresnum }{Appendix } \renewcommand {\cftchapnumwidth }{\appendixwidth } \renewcommand {\cftchapfont }{\cftsecfont } \setlength {\cftbeforechapskip }{\cftbeforesecskip } \setlength {\cftchapindent }{\cftsecindent } \renewcommand {\cftchappagefont }{\cftchapfont } \setlength {\cftsecindent }{\cftsubsecindent } \addtolength {\cftsubsecindent }{\cftsecnumwidth } \setcounter {tocdepth}{\c@ncsu@appendixtocdepth } 
+\contentsline {chapter}{\numberline {A}ASAI - Adaptive Statistical Analysis for Images}{55}{appendix.A}
+\contentsline {section}{\numberline {A.1}Motivation for Development}{55}{section.A.1}
+\contentsline {section}{\numberline {A.2}Principles of Operation}{56}{section.A.2}
+\contentsline {section}{\numberline {A.3}Future Development Paths}{56}{section.A.3}
+\contentsline {section}{\numberline {A.4}ASAI Manual !!! Incomplete}{57}{section.A.4}
+\contentsline {section}{\numberline {A.5}ASAI Code - Complete}{57}{section.A.5}

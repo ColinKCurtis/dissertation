@@ -1,8 +1,6 @@
 # Nanoscale and Macroscale Tribological Attributes of Alumina, Stainless Steel, and Carbon Nanostructures in Aqueous Environments
 
-## Colin K Curtis
-
-## Krim Nanotribology, NCSU Physics
+## Colin K Curtis, Krim Nanotribology, NCSU Physics
 
 ## Table of Contents
 

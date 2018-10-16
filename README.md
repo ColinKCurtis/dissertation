@@ -1,7 +1,18 @@
-# Colin K Curtis disseration 2018 ncsu physics
-# Nanotribology, Atomic Scale Surfaces, Nanoparticles, Friction
+# Nanoscale and Macroscale Tribological Attributes of Alumina, Stainless Steel, and Carbon Nanostructures in Aqueous Environments
 
-If you want to set up a dissertation using LaTeX, copy the following files/directories into your own directory:
+## Colin K Curtis
+
+## Krim Nanotribology, NCSU Physics
+
+## Table of Contents
+
+### 
+
+
+
+
+
+### If you want to set up a dissertation using LaTeX, copy the following files/directories into your own directory:
 
 Chapter-1/, Appendix-A/, Samples/, ckc1.tex, front.tex, ncsuthesis.cls, optional.tex
 

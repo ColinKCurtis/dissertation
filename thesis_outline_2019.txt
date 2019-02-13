@@ -1,4 +1,5 @@
 The Tribological Impact of Functionalized Carbon Nano-structures
+
 A Dissertation by Colin Kenmar Curtis
 
 •Chapter 1 – Intro  - Draft 1
@@ -18,3 +19,5 @@ A Dissertation by Colin Kenmar Curtis
 •Chapter 8 – A Tribological Study of γ-Fe₂O₃ Nanoparticles in Aqueous Suspension,  Tribology Letters, Dec 2018 (66:130) - Complete
 
 •Chapter 9 – Future work
+
+•Appendices - Code and other Resources

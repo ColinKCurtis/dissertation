@@ -14,7 +14,7 @@
 
 ### - Chapter 5 – A Comparative Study of the Nanoscale and Macroscale Attributes... of Nanodiamonds, Beilstein Journal of Nanotechnology, Sep 2017  - Complete
 
-### - Chapter 6 – Inter-facial Friction on Smooth and Rough Au surfaces mediated by Functionalized Nanodiamonds - Incomplete
+### - Chapter 6 – Aqueous Inter-facial Friction on Smooth and Rough Au Surfaces Mediated by Functionalized Nanodiamonds - Incomplete
 
 ### - Chapter 7 – Diffusion of Ethanol and Water through Functionalized Graphene and Graphene-Oxide Membranes - Incomplete
 
